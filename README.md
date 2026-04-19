@@ -15,8 +15,6 @@
 
 📊 Data Analyst Intern & Team Lead(present)<br><br>
 
-🌱 Learning <b>SQL, Advanced Excel & Power BI</b><br><br>
-
 👨‍💻 Portfolio:<br>
 👉 <a href="https://69dd0f86910c0b00efe08dae--peaceful-macaron-9ec494.netlify.app">View Portfolio</a><br><br>
 
