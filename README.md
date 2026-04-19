@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shravanthi M</h1>
 <h3 align="center">🎯 Aspiring Data Analyst | 📊 Turning raw data into meaningful insights</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shravanthi45&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shravanthi45&theme=flat&no-frame=true&margin-w=10" />
