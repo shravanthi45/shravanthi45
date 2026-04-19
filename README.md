@@ -58,18 +58,29 @@
 
 <hr>
 
+<h2 align="center">📊 Data Analytics Expertise</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard%20Development-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Data%20Querying-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-EDA%20%7C%20Visualization-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<hr>
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shravanthi45&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shravanthi45&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanthi45&layout=compact&theme=tokyonight&hide=html,css,javascript&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanthi45&layout=compact&theme=tokyonight&hide=html,css,javascript" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanthi45&theme=tokyonight&cache_seconds=0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanthi45&theme=tokyonight" />
 </p>
 
 <hr>
