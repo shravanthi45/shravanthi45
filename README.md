@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shravanthi M</h1>
 <h3 align="center">🎯 Aspiring Data Analyst | 📊 Turning raw data into meaningful insights</h3>
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shravanthi45&theme=flat&no-frame=true&margin-w=10" />
-</p>
-
----
-
 <h2 align="center">🚀 About Me</h2>
 
 <ul align="center" style="list-style-position: inside;">
