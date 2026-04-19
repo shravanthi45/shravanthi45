@@ -17,12 +17,12 @@
 
 🌱 Learning <b>SQL, Advanced Excel & Power BI</b><br><br>
 
-👨‍💻 Portfolio:  
+👨‍💻 Portfolio:<br>
 👉 <a href="https://69dd0f86910c0b00efe08dae--peaceful-macaron-9ec494.netlify.app">View Portfolio</a><br><br>
 
 📫 Email: <b>shravanthim45@gmail.com</b><br><br>
 
-📄 Resume:  
+📄 Resume:<br>
 👉 <a href="https://drive.google.com/file/d/153EyjUbkgisHzWC0T6YkELjvevY6Fo7P/view">View Resume</a>
 
 </div>
@@ -61,15 +61,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shravanthi45&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shravanthi45&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=0" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanthi45&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanthi45&layout=compact&theme=tokyonight&hide=html,css,javascript&cache_seconds=0" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanthi45&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanthi45&theme=tokyonight&cache_seconds=0" />
 </p>
 
 <hr>
