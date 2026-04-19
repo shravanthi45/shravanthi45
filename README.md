@@ -35,14 +35,20 @@
 
 📂 Projects  
 
-🔹 Sales / Superstore Dashboard  
-- Data cleaning and preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Built interactive dashboard using Power BI  
+🔹  Chocolate Sales Analysis Dashboard  
+- Created an interactive Excel dashboard  
+- Analyzed sales, customer segments, and product performance  
+- Derived business insights and revenue trends  
 
-🔹 Web Scraping & Data Visualization  
-- Extracted real-world data  
-- Analyzed and visualized insights  
+🔹 Retail Forecasting & Inventory Management  
+- Developed a data-driven project for demand prediction  
+- Helped optimize inventory and reduce stock issues  
+- Focused on forecasting and business decision support  
+
+🔹 Retail Sales Dashboard  
+- Designed an interactive Power BI dashboard  
+- Tracked KPIs, sales performance, and regional insights  
+- Enabled data-driven decision-making  
 
 ---
 
