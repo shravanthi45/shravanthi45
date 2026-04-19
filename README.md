@@ -75,9 +75,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shravanthi45&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanthi45&layout=compact&theme=tokyonight&hide=html,css,javascript" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanthi45&theme=tokyonight" />
