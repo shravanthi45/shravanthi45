@@ -6,6 +6,7 @@
 🚀 About Me  
 🎓 MCA Graduate  
 📈 Currently working as a Data Analyst Intern in  Blue Planet Info solutions  pvt lmtd 
+
 🔍 Interested in Data Analysis, Visualization & Business Insights  
 🌱 Learning SQL, Python & Advanced Analytics  
 💡 Passionate about solving real-world problems using data  
