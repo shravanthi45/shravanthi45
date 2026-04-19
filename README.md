@@ -13,7 +13,7 @@
 
 🔭 Currently working on <b>User Feedback Analysis Project</b><br><br>
 
-📊 Data Analyst Intern & Team Lead<br><br>
+📊 Data Analyst Intern & Team Lead(present)<br><br>
 
 🌱 Learning <b>SQL, Advanced Excel & Power BI</b><br><br>
 
