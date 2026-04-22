@@ -17,9 +17,7 @@
 👉 <a href="https://drive.google.com/file/d/153EyjUbkgisHzWC0T6YkELjvevY6Fo7P/view">View Resume</a>
 
 </div>
-
 <hr>
-
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
@@ -60,7 +58,7 @@
 
 <hr>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Status</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shravanthi45&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
