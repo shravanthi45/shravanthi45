@@ -35,13 +35,10 @@
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-
-<!-- HackerRank -->
-<a href="https://www.hackerrank.com/shravanthim45" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="40"/>
-</a>
-
 <hr>
+
+<h3>Profiles</h3>
+<a href="https://www.hackerrank.com/shravanthim45">HackerRank</a>
 
 <h2 align="center">⭐ Most Used Tools</h2>
 
