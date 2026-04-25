@@ -38,13 +38,12 @@
 <hr>
 <h3 style="text-align:center;">Profiles</h3>
 
-<div style="text-align:center;">
+<div style="display:flex; justify-content:center; align-items:center; gap:20px;">
 
   <!-- Portfolio -->
   <a href="https://69dd0f86910c0b00efe08dae--peaceful-macaron-9ec494.netlify.app" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" height="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
 
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/shravanthim45" target="_blank">
