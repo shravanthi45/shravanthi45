@@ -25,14 +25,24 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/shravanthimanjunathm">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/shravanthim45">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="40"/>
-  </a>
-</p>
+ <h3>Contact Me</h3>
+
+<!-- Portfolio -->
+<a href="https://69dd0f86910c0b00efe08dae--peaceful-macaron-9ec494.netlify.app" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetarchive.svg" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<!-- Email -->
+<a href="mailto:shravanthim45@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<!-- HackerRank -->
+<a href="https://www.hackerrank.com/shravanthim45" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="40"/>
+</a>
 
 <hr>
 
