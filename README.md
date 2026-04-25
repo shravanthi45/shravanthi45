@@ -36,9 +36,22 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <hr>
+<h3 style="text-align:center;">Profiles</h3>
 
-<h3>Profiles</h3>
-<a href="https://www.hackerrank.com/shravanthim45">HackerRank</a>
+<div style="text-align:center;">
+
+  <!-- Portfolio -->
+  <a href="https://69dd0f86910c0b00efe08dae--peaceful-macaron-9ec494.netlify.app" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/shravanthim45" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="40"/>
+  </a>
+
+</div>
 
 <h2 align="center">⭐ Most Used Tools</h2>
 
