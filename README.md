@@ -8,8 +8,7 @@
 <hr>
 <h2 align="center">🚀 About Me</h2>
 <div align="center">
-🔭 Currently working in <b>Blue planet info solutions pvt lmtd</b><br>
-📊 Data Analyst Intern(present)<br>
+🔭 Currently working in <b>Blue planet info solutions pvt lmtd</b><br> as a 📊 Data Analyst Intern(present)<br>
 👨‍💻 Portfolio:<br>
 👉 <a href="https://69dd0f86910c0b00efe08dae--peaceful-macaron-9ec494.netlify.app">View Portfolio</a><br>
 📫 Email: <b>shravanthim45@gmail.com</b><br>
