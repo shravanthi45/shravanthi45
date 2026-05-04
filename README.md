@@ -24,7 +24,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-<a href="[https://69dd0f86910c0b00efe08dae--peaceful-macaron-9ec494.netlify.app]" target="_blank">
+<a href="https://69dd0f86910c0b00efe08dae--peaceful-macaron-9ec494.netlify.app" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetarchive.svg" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
