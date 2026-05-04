@@ -10,7 +10,7 @@
 <div align="center">
 🔭 Currently working in <b>Blue planet info solutions pvt lmtd</b><br> as a 📊 Data Analyst Intern(present)<br>
 👨‍💻 Portfolio:<br>
-👉 <a href="https://69dd0f86910c0b00efe08dae--peaceful-macaron-9ec494.netlify.app">View Portfolio</a><br>
+👉 <a href="https://extraordinary-gumption-d7806f.netlify.app/">View Portfolio</a><br>
 📫 Email: <b>shravanthim45@gmail.com</b><br>
 📄 Resume:<br>
 👉 <a href="https://drive.google.com/file/d/153EyjUbkgisHzWC0T6YkELjvevY6Fo7P/view">View Resume</a>
@@ -24,7 +24,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-<a href="https://69dd0f86910c0b00efe08dae--peaceful-macaron-9ec494.netlify.app" target="_blank">
+<a href="https://extraordinary-gumption-d7806f.netlify.app/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetarchive.svg" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
@@ -38,7 +38,7 @@
 <h3 align="center">Profiles</h3>
 
 <p align="center">
-  <a href="https://69dd0f86910c0b00efe08dae--peaceful-macaron-9ec494.netlify.app" target="_blank">
+  <a href="https://extraordinary-gumption-d7806f.netlify.app/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" height="40"/>
   </a>
 
