@@ -42,7 +42,7 @@
   </a>
   &nbsp;
 <a href="https://drive.google.com/file/d/153EyjUbkgisHzWC0T6YkELjvevY6Fo7P/view" target="_blank">
-  <img src="https://raw.githubusercontent.com/shravanthi45/shravanthi45/main/resume-badge.png" height="40"/>
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
 </a>
 
 </p>
