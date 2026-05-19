@@ -41,9 +41,9 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/153EyjUbkgisHzWC0T6YkELjvevY6Fo7P/view" target="_blank">
-    <img src="https://drive.google.com/file/d/1CLrtbWiUedP_YVGAvxumt4KUqzzbuIYX/view?usp=drive_link"/>
-  </a>
+<a href="https://drive.google.com/file/d/153EyjUbkgisHzWC0T6YkELjvevY6Fo7P/view" target="_blank">
+  <img src="https://drive.google.com/thumbnail?id=1CLrtbWiUedP_YVGAvxumt4KUqzzbuIYX&sz=w200" height="40"/>
+</a>
 </p>
 
 <hr>
