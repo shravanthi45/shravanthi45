@@ -42,8 +42,9 @@
   </a>
   &nbsp;
 <a href="https://drive.google.com/file/d/153EyjUbkgisHzWC0T6YkELjvevY6Fo7P/view" target="_blank">
-  <img src="https://drive.google.com/thumbnail?id=1CLrtbWiUedP_YVGAvxumt4KUqzzbuIYX&sz=w200" height="40"/>
+  <img src="https://raw.githubusercontent.com/shravanthi45/shravanthi45/main/resume-badge.png" height="40"/>
 </a>
+
 </p>
 
 <hr>
