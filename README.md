@@ -30,18 +30,11 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://beautiful-starlight-280a4b.netlify.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=netlify" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:shravanthim45@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/shravanthim45" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://beautiful-starlight-280a4b.netlify.app/" target="_blank">
@@ -169,14 +162,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shravanthi45&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanthi45&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanthi45&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -188,9 +173,6 @@
 
 🎖️ <b>Data Essentials Certification</b> – Cisco | March 2026<br><br>
 🎖️ <b>Build a CRUD Web App with Spring MVC</b> – Ramaiah Skill Academy | July 2025<br><br>
-🎖️ <b>Data Analytics Internship</b> – Blue Planet Info Solutions Pvt Ltd<br><br>
-🎖️ <b>Data Analytics Internship</b> – ApexPlanet (AICTE)
-
 </div>
 
 <hr>
