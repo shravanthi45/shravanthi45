@@ -15,7 +15,7 @@
 📊 Passionate about <b>Data Analytics, Business Intelligence, and AI-powered Insights</b><br><br>
 💻 Skilled in <b>Excel, SQL, Power BI, Python, and Machine Learning</b> through internships and real-world projects<br><br>
 🚀 Worked on projects involving <b>Screen Time Analysis, Retail Forecasting, Chocolate Sales, and Customer Feedback Intelligence</b><br><br>
-🌱 Currently learning <b>NLP, Machine Learning, and Advanced Dashboard Development</b><br><br>
+🌱 Currently learning <b>NLP, Machine Learning, Generative AI, and Advanced Dashboard Development</b><br><br>
 ⚡ Interested in solving real-world business problems through <b>data-driven decision making</b><br><br>
 📫 Reach me at: <b>shravanthim45@gmail.com</b>
 
@@ -30,7 +30,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://extraordinary-gumption-d7806f.netlify.app/" target="_blank">
+  <a href="https://beautiful-starlight-280a4b.netlify.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=netlify" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <a href="https://extraordinary-gumption-d7806f.netlify.app/" target="_blank">
+  <a href="https://beautiful-starlight-280a4b.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   &nbsp;
@@ -66,8 +66,8 @@
 <h3 align="center">🌐 Web Technologies</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 <h3 align="center">📊 Data Analytics & Visualization</h3>
@@ -79,10 +79,11 @@
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<h3 align="center">🤖 Machine Learning & NLP</h3>
+<h3 align="center">🤖 Machine Learning, NLP & Gen AI</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 <h3 align="center">🛠️ Tools & Platforms</h3>
@@ -151,10 +152,17 @@
 
 <h3>📊 Blue Planet Info Solutions Pvt Ltd</h3>
 
-**Data Analyst Intern** *(Present)*
-- Performing end-to-end data analysis and generating actionable business insights
-- Building interactive dashboards and reports using Power BI and Excel
-- Cleaning, transforming, and visualizing data using Python and SQL
+**Data Analyst Intern** *(Jan 2025 – Present)*
+- Analyzed 5+ business datasets using SQL & Excel, identifying trends that reduced reporting time by 30%
+- Built 3 real-time Power BI dashboards with DAX measures to monitor KPIs across sales and operations
+- Improved data accuracy by 25% through structured data cleaning, validation, and standardization pipelines
+- Automated recurring reporting tasks with Python (Pandas), saving ~5 hours of manual effort weekly
+
+<h3>💻 Infotech Pvt Ltd</h3>
+
+**Python Development Intern** *(Jun 2024 – Sep 2024)*
+- Built 4+ Python automation scripts for data processing, reducing manual effort by 40%
+- Optimized Pandas & NumPy data pipelines, improving script execution speed by 20%
 
 <hr>
 
@@ -178,6 +186,8 @@
 
 <div align="center">
 
+🎖️ <b>Data Essentials Certification</b> – Cisco | March 2026<br><br>
+🎖️ <b>Build a CRUD Web App with Spring MVC</b> – Ramaiah Skill Academy | July 2025<br><br>
 🎖️ <b>Data Analytics Internship</b> – Blue Planet Info Solutions Pvt Ltd<br><br>
 🎖️ <b>Data Analytics Internship</b> – ApexPlanet (AICTE)
 
