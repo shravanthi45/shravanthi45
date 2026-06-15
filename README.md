@@ -15,7 +15,7 @@
 📊 Passionate about <b>Data Analytics, Business Intelligence, and AI-powered Insights</b><br><br>
 💻 Skilled in <b>Excel, SQL, Power BI, Python, and Machine Learning</b> through internships and real-world projects<br><br>
 🚀 Worked on projects involving <b>Screen Time Analysis, Retail Forecasting, Chocolate Sales, and Customer Feedback Intelligence</b><br><br>
-🌱 Currently learning <b>NLP, Machine Learning, Generative AI, and Advanced Dashboard Development</b><br><br>
+🌱 Currently learning <b>NLP, Machine Learning and Advanced Dashboard Development</b><br><br>
 ⚡ Interested in solving real-world business problems through <b>data-driven decision making</b><br><br>
 📫 Reach me at: <b>shravanthim45@gmail.com</b>
 
